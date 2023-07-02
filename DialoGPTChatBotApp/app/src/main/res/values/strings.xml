@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialoGPTChatBotApp</string>
+    <string name="scrollViewContent">Start your conversation!</string>
+</resources>
